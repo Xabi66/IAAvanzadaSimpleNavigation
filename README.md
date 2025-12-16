@@ -13,7 +13,7 @@ Agent novo en MultipleAgentsSize.
 Lista de cambios
 
 - Se han reducido el numero de huecos de MultipleAgentsSize de 5 a 3
--Se ha aumentado la velocidad de desplazamiento de todos los agent
+- Se ha aumentado la velocidad de desplazamiento de todos los agent
 - Los huecos de MultipleAgentsSize han pasado a ser uno estrecho, uno normal y uno grande
 - Se ha añadido un nuevo agent más delgado a la escena MultipleAgentsSize
 
